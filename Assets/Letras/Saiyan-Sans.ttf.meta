@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 54aec265ffb775e4ba479886c4d477de
+timeCreated: 1688072885
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Saiyan Sans
+  fontNames:
+  - Saiyan Sans
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

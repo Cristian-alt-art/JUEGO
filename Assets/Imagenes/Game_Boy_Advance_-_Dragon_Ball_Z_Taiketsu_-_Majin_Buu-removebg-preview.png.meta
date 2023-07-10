@@ -1,0 +1,1980 @@
+fileFormatVersion: 2
+guid: 69c101db6895ed349afe902b50c59efe
+timeCreated: 1688068242
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_0
+    21300002: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_1
+    21300004: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_2
+    21300006: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_3
+    21300008: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_4
+    21300010: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_5
+    21300012: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_6
+    21300014: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_7
+    21300016: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_8
+    21300018: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_9
+    21300020: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_10
+    21300022: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_11
+    21300024: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_12
+    21300026: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_13
+    21300028: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_14
+    21300030: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_15
+    21300032: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_16
+    21300034: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_17
+    21300036: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_18
+    21300038: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_19
+    21300040: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_20
+    21300042: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_21
+    21300044: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_22
+    21300046: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_23
+    21300048: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_24
+    21300050: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_25
+    21300052: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_26
+    21300054: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_27
+    21300056: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_28
+    21300058: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_29
+    21300060: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_30
+    21300062: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_31
+    21300064: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_32
+    21300066: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_33
+    21300068: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_34
+    21300070: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_35
+    21300072: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_36
+    21300074: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_37
+    21300076: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_38
+    21300078: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_39
+    21300080: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_40
+    21300082: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_41
+    21300084: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_42
+    21300086: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_43
+    21300088: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_44
+    21300090: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_45
+    21300092: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_46
+    21300094: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_47
+    21300096: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_48
+    21300098: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_49
+    21300100: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_50
+    21300102: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_51
+    21300104: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_52
+    21300106: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_53
+    21300108: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_54
+    21300110: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_55
+    21300112: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_56
+    21300114: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_57
+    21300116: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_58
+    21300118: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_59
+    21300120: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_60
+    21300122: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_61
+    21300124: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_62
+    21300126: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_63
+    21300128: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_64
+    21300130: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_65
+    21300132: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_66
+    21300134: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_67
+    21300136: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_68
+    21300138: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_69
+    21300140: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_70
+    21300142: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_71
+    21300144: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_72
+    21300146: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_73
+    21300148: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_74
+    21300150: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_75
+    21300152: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_76
+    21300154: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_77
+    21300156: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_78
+    21300158: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_79
+    21300160: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_80
+    21300162: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_81
+    21300164: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_82
+    21300166: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_83
+    21300168: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_84
+    21300170: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_85
+    21300172: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_86
+    21300174: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_87
+    21300176: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_88
+    21300178: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_89
+    21300180: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_90
+    21300182: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_91
+    21300184: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_92
+    21300186: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_93
+    21300188: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_94
+    21300190: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_95
+    21300192: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_96
+    21300194: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_97
+    21300196: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_98
+    21300198: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_99
+    21300200: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_100
+    21300202: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_101
+    21300204: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_102
+    21300206: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_103
+    21300208: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_104
+    21300210: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_105
+    21300212: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_106
+    21300214: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_107
+    21300216: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_108
+    21300218: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_109
+    21300220: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_110
+    21300222: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_111
+    21300224: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_112
+    21300226: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_113
+    21300228: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_114
+    21300230: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_115
+    21300232: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_116
+    21300234: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_117
+    21300236: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_118
+    21300238: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_119
+    21300240: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_120
+    21300242: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_121
+    21300244: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_122
+    21300246: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_123
+    21300248: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_124
+    21300250: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_125
+    21300252: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_126
+    21300254: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_127
+    21300256: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_128
+    21300258: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_129
+    21300260: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_130
+    21300262: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_131
+    21300264: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_132
+    21300266: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_133
+    21300268: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_134
+    21300270: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_135
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 498
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 501
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 501
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 496
+        width: 329
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 501
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 501
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 458
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 461
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 460
+        width: 69
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 461
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 460
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 460
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 461
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 457
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 461
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 461
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 461
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 461
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 460
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 423
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 423
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 424
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 423
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 423
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 425
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 422
+        width: 69
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 423
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 422
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 423
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 376
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 380
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 380
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 380
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 377
+        width: 66
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 380
+        width: 144
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 380
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 380
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 341
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 341
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 341
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 341
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 341
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 341
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 338
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 341
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 341
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 341
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 341
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 341
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 341
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 293
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 297
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 297
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 297
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 293
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 294
+        width: 74
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 297
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 297
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 297
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 297
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 259
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 259
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 259
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 259
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 259
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 259
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 259
+        width: 73
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 259
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_69
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 259
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_70
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 255
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_71
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 259
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_72
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 259
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_73
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 259
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_74
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 259
+        width: 56
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_75
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 215
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_76
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 219
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_77
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 219
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_78
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 215
+        width: 60
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_79
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 219
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_80
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 219
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_81
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 219
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_82
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 218
+        width: 150
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 61
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_84
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 168
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_85
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 169
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_86
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 169
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_87
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 169
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_88
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 169
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_89
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 169
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_90
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 169
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_91
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 169
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_92
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 169
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_93
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 169
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_94
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 169
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_95
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 169
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_96
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 124
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_97
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 124
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_98
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 124
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_99
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 124
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_100
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 120
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_101
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 124
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 124
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_103
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 119
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_104
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 124
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_105
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 124
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_106
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 124
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_107
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 124
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_108
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 124
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_109
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 124
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_110
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 124
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_111
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 124
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_112
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 124
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_113
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_114
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 81
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_115
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 81
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_116
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 82
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_117
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 82
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_118
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 76
+        width: 59
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_119
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 81
+        width: 63
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_120
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 81
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_121
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 43
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_122
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 44
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_123
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 44
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_124
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 44
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_125
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 43
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_126
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 43
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_127
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 44
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_128
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 43
+        width: 175
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_129
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 0
+        width: 93
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_130
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 35
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_131
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 59
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_132
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_133
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_134
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_Boy_Advance_-_Dragon_Ball_Z_Taiketsu_-_Majin_Buu-removebg-preview_135
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 0
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

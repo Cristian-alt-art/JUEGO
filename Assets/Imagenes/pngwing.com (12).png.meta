@@ -1,0 +1,552 @@
+fileFormatVersion: 2
+guid: 6b6180df9b32f39479f424c69ea6ad1f
+timeCreated: 1688054832
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pngwing.com (12)_0
+    21300002: pngwing.com (12)_1
+    21300004: pngwing.com (12)_2
+    21300006: pngwing.com (12)_3
+    21300008: pngwing.com (12)_4
+    21300010: pngwing.com (12)_5
+    21300012: pngwing.com (12)_6
+    21300014: pngwing.com (12)_7
+    21300016: pngwing.com (12)_8
+    21300018: pngwing.com (12)_9
+    21300020: pngwing.com (12)_10
+    21300022: pngwing.com (12)_11
+    21300024: pngwing.com (12)_12
+    21300026: pngwing.com (12)_13
+    21300028: pngwing.com (12)_14
+    21300030: pngwing.com (12)_15
+    21300032: pngwing.com (12)_16
+    21300034: pngwing.com (12)_17
+    21300036: pngwing.com (12)_18
+    21300038: pngwing.com (12)_19
+    21300040: pngwing.com (12)_20
+    21300042: pngwing.com (12)_21
+    21300044: pngwing.com (12)_22
+    21300046: pngwing.com (12)_23
+    21300048: pngwing.com (12)_24
+    21300050: pngwing.com (12)_25
+    21300052: pngwing.com (12)_26
+    21300054: pngwing.com (12)_27
+    21300056: pngwing.com (12)_28
+    21300058: pngwing.com (12)_29
+    21300060: pngwing.com (12)_30
+    21300062: pngwing.com (12)_31
+    21300064: pngwing.com (12)_32
+    21300066: pngwing.com (12)_33
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngwing.com (12)_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1376
+        width: 410
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pngwing.com (12)_1
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1382
+        width: 432
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pngwing.com (12)_2
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1376
+        width: 410
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pngwing.com (12)_3
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1241
+        width: 410
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pngwing.com (12)_4
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1224
+        width: 432
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pngwing.com (12)_5
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1242
+        width: 410
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pngwing.com (12)_6
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1106
+        width: 410
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pngwing.com (12)_7
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1066
+        width: 432
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pngwing.com (12)_8
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1108
+        width: 411
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pngwing.com (12)_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 971
+        width: 410
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pngwing.com (12)_10
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 671
+        width: 182
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pngwing.com (12)_11
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 863
+        width: 155
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pngwing.com (12)_12
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 972
+        width: 413
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pngwing.com (12)_13
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 837
+        width: 404
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pngwing.com (12)_14
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 838
+        width: 411
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pngwing.com (12)_15
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 702
+        width: 404
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pngwing.com (12)_16
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 702
+        width: 155
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pngwing.com (12)_17
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 703
+        width: 411
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pngwing.com (12)_18
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 567
+        width: 404
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pngwing.com (12)_19
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 193
+        width: 183
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pngwing.com (12)_20
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 535
+        width: 155
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pngwing.com (12)_21
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 568
+        width: 411
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pngwing.com (12)_22
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 432
+        width: 404
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pngwing.com (12)_23
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 377
+        width: 155
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pngwing.com (12)_24
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 431
+        width: 406
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pngwing.com (12)_25
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 293
+        width: 404
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pngwing.com (12)_26
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 193
+        width: 182
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pngwing.com (12)_27
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 292
+        width: 406
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pngwing.com (12)_28
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 162
+        width: 404
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pngwing.com (12)_29
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1
+        width: 182
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pngwing.com (12)_30
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 4
+        width: 182
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pngwing.com (12)_31
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 158
+        width: 406
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pngwing.com (12)_32
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 27
+        width: 402
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pngwing.com (12)_33
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 27
+        width: 406
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

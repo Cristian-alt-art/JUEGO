@@ -1,0 +1,314 @@
+fileFormatVersion: 2
+guid: 667698f9bf86cf3458ffbbfbea9cde04
+timeCreated: 1688783816
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: png-clipart-sprite-lava-cave-desktop-cartoon-volcano-game-text-removebg-preview_0
+    21300002: png-clipart-sprite-lava-cave-desktop-cartoon-volcano-game-text-removebg-preview_1
+    21300004: png-clipart-sprite-lava-cave-desktop-cartoon-volcano-game-text-removebg-preview_2
+    21300006: png-clipart-sprite-lava-cave-desktop-cartoon-volcano-game-text-removebg-preview_3
+    21300008: png-clipart-sprite-lava-cave-desktop-cartoon-volcano-game-text-removebg-preview_4
+    21300010: png-clipart-sprite-lava-cave-desktop-cartoon-volcano-game-text-removebg-preview_5
+    21300012: png-clipart-sprite-lava-cave-desktop-cartoon-volcano-game-text-removebg-preview_6
+    21300014: png-clipart-sprite-lava-cave-desktop-cartoon-volcano-game-text-removebg-preview_7
+    21300016: png-clipart-sprite-lava-cave-desktop-cartoon-volcano-game-text-removebg-preview_8
+    21300018: png-clipart-sprite-lava-cave-desktop-cartoon-volcano-game-text-removebg-preview_9
+    21300020: png-clipart-sprite-lava-cave-desktop-cartoon-volcano-game-text-removebg-preview_10
+    21300022: png-clipart-sprite-lava-cave-desktop-cartoon-volcano-game-text-removebg-preview_11
+    21300024: png-clipart-sprite-lava-cave-desktop-cartoon-volcano-game-text-removebg-preview_12
+    21300026: png-clipart-sprite-lava-cave-desktop-cartoon-volcano-game-text-removebg-preview_13
+    21300028: png-clipart-sprite-lava-cave-desktop-cartoon-volcano-game-text-removebg-preview_14
+    21300030: png-clipart-sprite-lava-cave-desktop-cartoon-volcano-game-text-removebg-preview_15
+    21300032: png-clipart-sprite-lava-cave-desktop-cartoon-volcano-game-text-removebg-preview_16
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: png-clipart-sprite-lava-cave-desktop-cartoon-volcano-game-text-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 285
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: png-clipart-sprite-lava-cave-desktop-cartoon-volcano-game-text-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 285
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: png-clipart-sprite-lava-cave-desktop-cartoon-volcano-game-text-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 285
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: png-clipart-sprite-lava-cave-desktop-cartoon-volcano-game-text-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 285
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: png-clipart-sprite-lava-cave-desktop-cartoon-volcano-game-text-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 286
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: png-clipart-sprite-lava-cave-desktop-cartoon-volcano-game-text-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 285
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: png-clipart-sprite-lava-cave-desktop-cartoon-volcano-game-text-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 286
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: png-clipart-sprite-lava-cave-desktop-cartoon-volcano-game-text-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 279
+        width: 143
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: png-clipart-sprite-lava-cave-desktop-cartoon-volcano-game-text-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 259
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: png-clipart-sprite-lava-cave-desktop-cartoon-volcano-game-text-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 228
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: png-clipart-sprite-lava-cave-desktop-cartoon-volcano-game-text-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 252
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: png-clipart-sprite-lava-cave-desktop-cartoon-volcano-game-text-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 228
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: png-clipart-sprite-lava-cave-desktop-cartoon-volcano-game-text-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 189
+        width: 65
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: png-clipart-sprite-lava-cave-desktop-cartoon-volcano-game-text-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 186
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: png-clipart-sprite-lava-cave-desktop-cartoon-volcano-game-text-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 183
+        width: 90
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: png-clipart-sprite-lava-cave-desktop-cartoon-volcano-game-text-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 192
+        width: 134
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: png-clipart-sprite-lava-cave-desktop-cartoon-volcano-game-text-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 7
+        width: 379
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
